@@ -19,7 +19,7 @@ Descrição de demanda de projetos acadêmico em informatica primeiro semestre
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| aluno |   kleber william       |     https://www.instagram.com/william_cesar9           |
+| aluno |   Marlon Veres      |   https://www.instagram.com/_mveres_        |
 
 
  # atividade dados abertos
